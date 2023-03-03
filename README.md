@@ -1,7 +1,7 @@
 ### Olá 👋, eu sou o Gabriel!!
 
 - 💻 Trabalhando como Analista de Suporte ao usuário (HelpDesk)
-- 📘 Atualmente estudando e me aperfeiçoando no JavaScript 
+- 📘 Atualmente estudando e me aperfeiçoando em Front-end (HTML, CSS e JS) 
 
 
 <div>
